@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">P0981_ServiceBindingLocal</string>
+    <string name="start_service">Start service</string>
+    <string name="up_interval">Up interval</string>
+    <string name="doun_interval">Doun interval</string>
+    <string name="stop_service">Stop service</string>
+    <string name="interval_">interval =</string>
+</resources>
